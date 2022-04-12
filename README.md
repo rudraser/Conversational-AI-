@@ -1,0 +1,2 @@
+# Conversational-AI-
+Currently pursuing a Study Oriented Project under Prof Yashwardhan Sir , Topic : Conversational AI for understanding Customer Behavior; We are a team of 4 and the project is aimed at building a multilingual chatbot in association with C-Zentrix; Role: Sentiment analysis , Fine-tuned BERT Model for Binary Sentiment analysis, implemented multi class-sentiment analysis on hotel review dataset, implemented an LSTM model for binary Sentiment Classification
